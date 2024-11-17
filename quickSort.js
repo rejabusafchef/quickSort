@@ -19,4 +19,4 @@ function quickSort(arr) {
 arr = [-6, 20, 8, -2, 4];
 console.log(quickSort(arr));
 
-// Big-O =
+// Big-O: Worst case - O(n^2), Avg case - O(nlogn)
